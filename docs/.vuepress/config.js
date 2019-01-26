@@ -6,6 +6,8 @@ module.exports = {
     localePath: '/docs/REMADE2.html',
     themeConfig: { //主题配置
         logo: '/imgs/apple-developer-brandmark.svg',
+        sidebar: 'auto',
+        lastUpdated: 'Last Updated', // string | boolean
     }
 }
   
