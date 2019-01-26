@@ -1,0 +1,16 @@
+{
+    "name": "ego-documents",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "dev": "vuepress dev",
+      "build": "vuepress build",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+      "vuepress": "^0.14.8"
+    }
+  }
