@@ -5,7 +5,6 @@ module.exports = {
     sidebar: [
       {
         title: 'macOS',
-        // collapsable: true,
         children: [
           ['docs/1-macOS/Themes', 'Themes'],
           ['docs/1-macOS/VisualIndex', 'Visual Index']
