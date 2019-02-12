@@ -1,3 +1,7 @@
+---
+title: 主题
+---
+
 ![macOS 人机交互指南](./../../public/images/1-macOS/themes/macOSHIG_Hero.svg)
 # macOS 设计主题
 
