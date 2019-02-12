@@ -5,7 +5,7 @@ module.exports = {
     sidebar: [
       {
         title: 'macOS',
-        collapsable: true,
+        // collapsable: true,
         children: [
           ['docs/1-macOS/Themes', 'Themes'],
           ['docs/1-macOS/VisualIndex', 'Visual Index']
@@ -13,6 +13,7 @@ module.exports = {
       },
       {
         title: 'App Architecture',
+        // collapsable: true,
         children: [
           ['docs/2-App Architecture/Full-ScreenMode', 'Full-Screen Mode'],
           ['docs/2-App Architecture/Loading', 'Loading'],
