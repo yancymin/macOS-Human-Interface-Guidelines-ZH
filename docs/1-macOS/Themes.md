@@ -1,5 +1,5 @@
 ![macOS 人机交互指南](./../../public/images/1-macOS/themes/macOSHIG_Hero.svg)
-# macOS 设计主旨
+# macOS 设计主题
 
 四个主要主题区分 macOS 应用程序与 iOS，tvOS 和 watchOS 应用程序。在想象应用程序的身份时，请牢记这些主题。
 
