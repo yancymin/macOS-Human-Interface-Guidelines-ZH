@@ -1,6 +1,6 @@
 module.exports = {
-  title: ' Human Interface Guidelines',
-  description: 'Just playing around',
+  title: ' Human Interface Guidelines - 中文文档',
+  description: 'macOS Human Interface Guidelines 中文文档',
   themeConfig: {
     sidebar: [
       {
