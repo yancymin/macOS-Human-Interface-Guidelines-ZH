@@ -1,6 +1,7 @@
 module.exports = {
   title: ' Human Interface Guidelines - 中文文档',
   description: 'macOS Human Interface Guidelines 中文文档',
+  ga: 'UA-98374033-8',
   themeConfig: {
     sidebar: [
       {
