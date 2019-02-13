@@ -6,7 +6,7 @@ module.exports = {
       {
         title: 'macOS',
         children: [
-          ['docs/1-macOS/Themes', '主题'],
+          ['docs/1-macOS/Themes', '主题 | Themes'],
           ['docs/1-macOS/VisualIndex', 'Visual Index']
         ]
       },
