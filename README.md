@@ -1,4 +1,4 @@
-[![macOS 人机交互指南](./public/images/index-hero.png)](/docs/1-macOS/Themes.html)
+[![macOS 人机交互指南](./public/images/index-hero.jpg)](/docs/1-macOS/Themes.html)
 
 ![Netlify Status](https://api.netlify.com/api/v1/badges/9747d517-1e61-415b-942e-778ebc3451b6/deploy-status)
 
