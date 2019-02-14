@@ -1,5 +1,5 @@
 module.exports = {
-  title: ' Human Interface Guidelines - 中文文档',
+  title: ' macOS 人机界面指南',
   description: 'macOS Human Interface Guidelines 中文文档',
   ga: 'UA-98374033-8',
   themeConfig: {
