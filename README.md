@@ -3,7 +3,7 @@
 ![Netlify Status](https://api.netlify.com/api/v1/badges/9747d517-1e61-415b-942e-778ebc3451b6/deploy-status)
 
 | 章节                | 原文                                                                                           | 译文                                                        | 进度  |
-| :------------------ | :--------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | :---: |
+| :------------------ | :--------------------------------------------------------------------------------------------- | :---------------------------------------------------------- | :---: |
 | macOS               | [Themes](https://developer.apple.com/design/human-interface-guidelines/macos/overview/themes/) | [主题](https://macos1.netlify.com/docs/1-macOS/Themes.html) |   ✅   |
 |                     | [Visual Index]()                                                                               |                                                             |       |
 | App Architecture    | [Full-Screen Mode]()                                                                           |                                                             |       |
