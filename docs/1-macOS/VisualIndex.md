@@ -67,7 +67,7 @@ title: 可视化索引
 ### 片模态对话框
 显示附加到窗口的模态对话框中的控件，选项或信息。
 
-![片模态对话框](https://developer.apple.com/design/human-interface-guidelines/macos/images/visual-index/Sheet.svg)
+![片模态对话框](./../../public/images/1-macOS/VisualIndex/Sheet.svg)
 
 ### 侧边栏
 出现在窗口的一侧。允许导航和选择要在窗口主要部分中执行的项目。
@@ -267,17 +267,17 @@ title: 可视化索引
 ### 进度条
 填充以显示已知持续时间的任务进度的条形图。
 
-![进度条](https://developer.apple.com/design/human-interface-guidelines/macos/images/visual-index/ProgressBar.svg)
+![进度条](./../../public/images/1-macOS/VisualIndex/ProgressBar.svg)
 
 ### 进度环
 填充的圆圈，用于显示已知持续时间的任务的进度。
 
-![进度环](https://developer.apple.com/design/human-interface-guidelines/macos/images/visual-index/ProgressCircle.svg)
+![进度环](./../../public/images/1-macOS/VisualIndex/ProgressCircle.svg)
 
 ### 加载圈
 为无法预估的任务，如加载或同步复杂数据，启用动画效果。
 
-![加载圈](https://developer.apple.com/design/human-interface-guidelines/macos/images/visual-index/ProgressSpinner.svg)
+![加载圈](./../../public/images/1-macOS/VisualIndex/ProgressSpinner.svg)
 
 ### 评级指示器
 使用一系列水平排列的图形符号来传达排名级别
