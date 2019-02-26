@@ -133,7 +133,7 @@ title: 可视化索引
 ### 复选框
 提供两种相反状态，操作或值之间的选择。
 
-![复选框](./../../public/images/1-macOS/VisualIndex/CheckBoxes.svg)
+<!-- ![复选框](./../../public/images/1-macOS/VisualIndex/CheckBoxes.svg) -->
 
 ### 展开按钮
 显示和隐藏与特定控件关联的功能，如“保存”对话框中的“另存为”文本字段。
