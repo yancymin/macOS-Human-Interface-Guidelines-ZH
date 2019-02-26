@@ -8,7 +8,7 @@ module.exports = {
         title: 'macOS',
         children: [
           ['docs/1-macOS/Themes', '主题 | Themes'],
-          ['docs/1-macOS/VisualIndex', 'Visual Index']
+          ['docs/1-macOS/VisualIndex', '可视化索引 | Visual Index']
         ]
       },
       {

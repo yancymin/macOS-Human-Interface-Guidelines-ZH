@@ -5,7 +5,7 @@
 | 章节                | 原文                                                                                                       | 译文                                                             | 进度  |
 | :------------------ | :--------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------- | :---: |
 | macOS               | [Themes](https://developer.apple.com/design/human-interface-guidelines/macos/overview/themes/)             | [主题](https://macos1.netlify.com/docs/1-macOS/Themes.html)      |   ✅   |
-|                     | [Visual Index](https://developer.apple.com/design/human-interface-guidelines/macos/overview/visual-index/) | [主题](https://macos1.netlify.com/docs/1-macOS/VisualIndex.html) |   ✅   |
+|                     | [Visual Index](https://developer.apple.com/design/human-interface-guidelines/macos/overview/visual-index/) | [可视化索引](https://macos1.netlify.com/docs/1-macOS/VisualIndex.html) |   ✅   |
 | App Architecture    | [Full-Screen Mode]()                                                                                       |                                                                  |       |
 |                     | [Loading]()                                                                                                |                                                                  |       |
 |                     | [Modality]()                                                                                               |                                                                  |       |

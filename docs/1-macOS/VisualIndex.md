@@ -21,12 +21,52 @@ title: 可视化索引
 
 ### 警告提示
 显示模态消息，错误或警告。
+
 ![警告提示](./../../public/images/1-macOS/VisualIndex/Alerts.svg)
 
 ### 框
 形成控件，文本字段和其他界面元素的独特逻辑分组。
-![警告提示](./../../public/images/1-macOS/VisualIndex/Boxes.svg)
 
+![框](./../../public/images/1-macOS/VisualIndex/Boxes.svg)
 
+### 列视图
+通过一系列垂直列的导航来展现数据层次结构。
+
+![列视图](./../../public/images/1-macOS/VisualIndex/ColumnViews.svg)
+
+### 图像视图
+在透明或不透明背景上显示单个图像或动画图像序列。
+
+![图像视图](./../../public/images/1-macOS/VisualIndex/ImageViews.svg)
+
+### 大纲视图
+在列和行的单元格组织中滚动列表来显示分层数据。
+
+![大纲视图](./../../public/images/1-macOS/VisualIndex/OutlineViews.svg)
+
+### 面板（HUD 式）
+在高度可视化或沉浸式应用程序中，来显示与活动文档和选择相关的控件，选项或信息。
+
+![面板（HUD 式）](./../../public/images/1-macOS/VisualIndex/Panels-1.svg)
+
+### 面板（标准）
+显示与活动文档或选择相关的控件，选项或信息。
+
+![面板（标准）](./../../public/images/1-macOS/VisualIndex/Panels-2.svg)
+
+### 气泡弹出框
+单击控件或视图时，在屏幕上显示其他内容上方的控件，选项或信息。
+
+![气泡弹出框](./../../public/images/1-macOS/VisualIndex/PopOvers.svg)
+
+### 滚动视图
+通过水平和垂直滚动，可以浏览大于可见区域的内容。
+
+![滚动视图](./../../public/images/1-macOS/VisualIndex/ScrollView.svg)
+
+### 片模态对话框
+显示附加到窗口的模态对话框中的控件，选项或信息。
+
+![片模态对话框](./../../public/images/1-macOS/VisualIndex/Sheet.svg)
 
 
