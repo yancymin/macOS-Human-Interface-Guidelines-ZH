@@ -163,7 +163,7 @@ title: 可视化索引
 ### 弹出按钮
 显示包含互斥选项列表的菜单。
 
-![弹出按钮](./../../public/images/1-macOS/VisualIndex/PopupButtons.svg)
+<!-- ![弹出按钮](./../../public/images/1-macOS/VisualIndex/PopupButtons.svg) -->
 
 ### 下拉按钮
 显示命令列表或启用一个或多个状态的选择。
