@@ -21,7 +21,9 @@ title: 可视化索引
 
 ##### 警告提示
 显示模态消息，错误或警告。
+![警告提示](./../../public/images/1-macOS/VisualIndex/Alerts.svg =200x)
 ![警告提示](./../../public/images/1-macOS/VisualIndex/Alerts.svg)
-![警告提示](./../../public/images/1-macOS/VisualIndex/Alerts.svg)
+
+<img src="http://7xqoji.com1.z0.glb.clouddn.com/mytest.jpg" width="100" hegiht="30" align=center />
 
 
