@@ -7,15 +7,15 @@ module.exports = {
       {
         title: 'macOS',
         children: [
-          ['docs/1-macOS/Themes', '主题 | Themes'],
-          ['docs/1-macOS/VisualIndex', '可视化索引 | Visual Index']
+          ['docs/1-macOS/Themes', '主题'],
+          ['docs/1-macOS/VisualIndex', '可视化索引']
         ]
       },
       {
-        title: '应用程序架构 | App Architecture',
+        title: '应用程序架构',
         // collapsable: true,
         children: [
-          ['docs/2-AppArchitecture/FullScreenMode', '全屏模式 | Full-Screen Mode'],
+          ['docs/2-AppArchitecture/FullScreenMode', '全屏模式'],
           ['docs/2-AppArchitecture/Loading', 'Loading'],
           ['docs/2-AppArchitecture/Modality', 'Modality'],
         ]
