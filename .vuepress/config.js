@@ -12,12 +12,12 @@ module.exports = {
         ]
       },
       {
-        title: 'App Architecture',
+        title: '应用程序架构 | App Architecture',
         // collapsable: true,
         children: [
-          ['docs/2-App Architecture/Full-ScreenMode', 'Full-Screen Mode'],
-          ['docs/2-App Architecture/Loading', 'Loading'],
-          ['docs/2-App Architecture/Modality', 'Modality'],
+          ['docs/2-AppArchitecture/FullScreenMode', '全屏模式 | Full-Screen Mode'],
+          ['docs/2-AppArchitecture/Loading', 'Loading'],
+          ['docs/2-AppArchitecture/Modality', 'Modality'],
         ]
       }
     ],
