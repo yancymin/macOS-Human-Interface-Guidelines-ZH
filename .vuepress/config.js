@@ -16,7 +16,7 @@ module.exports = {
         // collapsable: true,
         children: [
           ['docs/2-AppArchitecture/FullScreenMode', '全屏模式'],
-          ['docs/2-AppArchitecture/Loading', 'Loading'],
+          ['docs/2-AppArchitecture/Loading', '加载'],
           ['docs/2-AppArchitecture/Modality', 'Modality'],
         ]
       }
