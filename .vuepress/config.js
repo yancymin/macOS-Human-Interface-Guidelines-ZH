@@ -17,7 +17,7 @@ module.exports = {
         children: [
           ['docs/2-AppArchitecture/FullScreenMode', '全屏模式'],
           ['docs/2-AppArchitecture/Loading', '加载'],
-          ['docs/2-AppArchitecture/Modality', 'Modality'],
+          ['docs/2-AppArchitecture/Modality', '模态'],
         ]
       }
     ],
